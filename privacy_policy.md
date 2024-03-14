@@ -1,4 +1,5 @@
-Privacy Policy for OpenMasjid Livestream
+# Privacy Policy
+
 Effective Date: 14/03/2024
 
 ## Introduction
