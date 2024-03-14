@@ -4,25 +4,26 @@ Effective Date: 14/03/2024
 
 ## Introduction
 
-This Privacy Policy describes how OpenMasjid.io ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of our mobile application, OpenMasjid Livestream (the "App").
+This Privacy Policy describes how OpenMasjid.io ("we," "us," or "our") collects, uses, and discloses your information in connection with your use of our application, OpenMasjid Livestream (the "App").
 
 ## Information We Collect
 
 We collect the following information through the App:
 
 Social Login Information: When you sign in using social login services like Google Sign In or Apple Sign In, we may collect your name and email address, depending on the social login provider and your privacy settings on that platform. In some cases, such as Apple Sign In with "Hide My Email," we may only receive a unique, non-identifiable email address.
-Device ID: We generate a random, unique device ID that is stored on your device.
-API Token: We create an API token on our server specifically for you.
+- Device ID: We generate a random, unique device ID that is stored on your device.
+- API Token: We create an API token on our server specifically for you.
 
 ## Use of Information
 
 We use the information we collect for the following purposes:
 
-Authentication: We use your social login information to authenticate you and allow you to access the App.
-User Experience: We use your name (if provided) to personalize your user experience within the App.
-Device Identification: We use the device ID to uniquely identify you for the purpose of generating tokens to join live broadcasts (audio only).
-API Token: We use the API token to authenticate your device with our server and enable you to join live broadcasts.
-Information Sharing
+- Authentication: We use your social login information to authenticate you and allow you to access the App.
+- User Experience: We use your name (if provided) to personalize your user experience within the App.
+- Device Identification: We use the device ID to uniquely identify you for the purpose of generating tokens to join live broadcasts (audio only).
+- API Token: We use the API token to authenticate your device with our server and enable you to join live broadcasts.
+
+## Information Sharing
 
 We do not share your information with any third parties.
 
